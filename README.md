@@ -1,5 +1,5 @@
 # Operating-Systems-Project
-This project was made during an OS course at Lev Academic Center, and is based on Barak Gonen's book - https://data.cyber.org.il/os/os_book.pdf
+This project was made during OS course at Lev Academic Center and is based on Barak Gonen's book - https://data.cyber.org.il/os/os_book.pdf
 
 ## Project Summary:
 In this project, I developed a software that performs several common stages of malicious activity, centered around code injection techniques. The project involves utilizing Windows API functions for creating hooks, manipulating Import Address Table (IAT), and establishing communication via sockets. The main goal is to demonstrate various stages of a simulated attack, showcasing the capabilities of code injection and remote communication.
